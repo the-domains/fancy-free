@@ -1,28 +1,40 @@
-name: Fancy Free
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.10577
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Fancy Free
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.3125
+  rhythmicContrast: 0
   brandColors:
     - '#e7edfd'
     - '#0c0d11'
     - '#ff0044'
     - '#b1a3b9'
     - '#685b51'
-  brandStrength: 0.3125
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.10577
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.1812816
+analytics:
+  twitter: null
+  google: null
+  facebook: null
