@@ -4,8 +4,15 @@
         <description><![CDATA[Fancy Free]]></description>
         <link>https://thegrid.ai/fancy-free/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 21:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 22:50:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fancy-free/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Life and Times of Lady Free]]></title>
+            <description><![CDATA[<article><h1>The Life and Times of Lady Free</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa066a7b46d082ead7ea903e7f5bb32532f013a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fancy-free/the-life-and-times-of-lady-free/index.html</link>
+            <guid isPermaLink="false">f96bce8e-14b1-4e25-b4c1-087da412b29a</guid>
+            <pubDate>Fri, 12 Feb 2016 22:50:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a56b828-1b25-43ab-945d-dd1ec64d85fd.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/fancy-free/0716bd18-9497-4235-99ab-9bdc7c95221b/index.html</link>
             <guid isPermaLink="false">0716bd18-9497-4235-99ab-9bdc7c95221b</guid>
             <pubDate>Fri, 12 Feb 2016 21:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Life and Times of Lady Free]]></title>
-            <description><![CDATA[<h1>The Life and Times of Lady Free</h1>]]></description>
-            <link>https://thegrid.ai/fancy-free/the-life-and-times-of-lady-free/index.html</link>
-            <guid isPermaLink="false">f96bce8e-14b1-4e25-b4c1-087da412b29a</guid>
-            <pubDate>Fri, 12 Feb 2016 21:15:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
