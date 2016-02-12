@@ -1,7 +1,7 @@
 name: Fancy Free
 favicon: null
-layout_spectrum: 0.2144247954711318
-typography_spectrum: 0.23198278807103634
+layout_spectrum: 1
+typography_spectrum: 0.68631
 cta:
   domain: null
   bucket: null
