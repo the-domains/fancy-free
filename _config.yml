@@ -1,0 +1,28 @@
+name: Fancy Free
+favicon: null
+layout_spectrum: 0.2144247954711318
+typography_spectrum: 0.23198278807103634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.018819067860022187
+  lightness: 0.8545068991370499
+  saturation: 0.1409842532593757
+  rhythmicContrast: 0.29183164425194263
+purpose: []
